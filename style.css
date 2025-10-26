@@ -1,0 +1,64 @@
+ul{
+    display: flex;
+    gap: 20px;
+    padding: 0%;
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+    margin-top: -50px;
+    margin-left: 200px;
+}
+
+.ul, li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: larger;
+}
+body{
+    background-image: url(nails.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+    color: black ;
+}
+h1{
+    font-size: 80px;
+    margin-top: -30px;
+    color: black;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    display: inline-block
+
+}
+
+h2{
+    font: 2em sans-serif;
+    margin-left: 450px;
+    font-size: 60px;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+p{
+    font-size: 30px;
+    margin-left: 450px;
+    border-radius: 50px;
+    margin-top: -30px;
+}
+
+input{
+    font-size: 50px;
+}
+button{
+    cursor:pointer;
+}
+.footer-social a{
+    color: black;
+    margin: 0 4%;
+    justify-content: right;
+}
+.footer-contact{
+    text-align: right;
+}
