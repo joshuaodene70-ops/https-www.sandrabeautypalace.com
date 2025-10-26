@@ -1,3 +1,5 @@
+@media (max-width: 768px) {
+
 ul{
     display: flex;
     gap: 20px;
@@ -15,7 +17,6 @@ ul{
     font-weight: bold;
     font-size: larger;
 }
-@media (max-width: 768px) {
 body{
     background-image: url(nails.jpg);
     background-size: cover;
